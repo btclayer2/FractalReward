@@ -1,8 +1,8 @@
 {
- "create_time": "2024-09-09 18:54:51.745727",
+ "create_time": "2024-09-09 18:56:07.857166",
  "reward": [
   {
-   "accReward": 200000000,
+   "accReward": 400000000,
    "buyTime": 1725275256,
    "endMiningTime": 1728432000,
    "miningCycleType": 30,
@@ -14,7 +14,7 @@
    "totalHashRate": 20
   },
   {
-   "accReward": 200000000,
+   "accReward": 400000000,
    "buyTime": 1725291066,
    "endMiningTime": 1728432000,
    "miningCycleType": 30,
@@ -26,7 +26,7 @@
    "totalHashRate": 20
   },
   {
-   "accReward": 200000000,
+   "accReward": 400000000,
    "buyTime": 1725291072,
    "endMiningTime": 1728432000,
    "miningCycleType": 30,
