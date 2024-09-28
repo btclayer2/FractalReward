@@ -124,5 +124,12 @@
   "time": "2024-09-26 08:00:00",
   "totalHashRate": 25090,
   "totalReward": 9818570060.0
+ },
+ "2024-09-27 08:00:00": {
+  "addrCount": 353,
+  "rewardPerUnit": 413939.0,
+  "time": "2024-09-27 08:00:00",
+  "totalHashRate": 24780,
+  "totalReward": 10257408420.0
  }
 }
