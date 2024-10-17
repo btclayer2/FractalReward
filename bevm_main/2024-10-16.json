@@ -1,0 +1,20 @@
+{
+ "create_time": "2024-10-17 10:12:34.620215",
+ "reward": [
+  {
+   "accReward": 447617848,
+   "buyTime": 1726452540,
+   "endMiningTime": 1729123200,
+   "miningCycleType": 30,
+   "miningMachineName": "Miners",
+   "owner": "0xA7497dE44Ec27f4cBdCB7754BA24961523eeAe4f",
+   "reward": 21204180,
+   "startMiningTime": 1726531200,
+   "tokenId": 1524,
+   "totalHashRate": 30
+  }
+ ],
+ "total_buy_hashrate": 30,
+ "total_reward": 21204180,
+ "total_sell_hashrate": 30
+}
